@@ -8071,4 +8071,11 @@ a.ui-button:active,
 	#homesec6-maincontent {
 		align-items: center;
 	}
+	/* Services  */
+	/* #services-part2 {
+		right: 14%;
+	} */
+	.experience-section .video-column .video-box {
+		margin-left: 0px;
+	}
 }
