@@ -4706,7 +4706,7 @@ a.ui-button:active,
 
 .testimonial-section-four {
 	position: relative;
-	padding: 55px 0 65px;
+	padding: 55px 0 100px;
 }
 
 .testimonial-section-four:before {
@@ -7489,6 +7489,9 @@ a.ui-button:active,
 #striponbg {
 	position: absolute;
 	bottom: 0px;
+}
+#striponbg, #striponbg img {
+	width: -webkit-fill-available;
 }
 #designonbg {
 	position: absolute;
